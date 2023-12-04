@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fakher_baklouti_lsi3_mesure_glycemie</string>
+    resources>
+    <string name="app_name">fakher_baklouti_lsi3_mesure_glycemie
+    </string>
+    <string name="title">Messure de niveau de Glycemie</string>
+    <string name="msgage">Votre age</string>
+    <string name="question">Est-ce que vous jeuner</string>
+    <string name="bonton">CONSULTER</string>
+</resources>
